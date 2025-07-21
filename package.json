@@ -1,21 +1,8 @@
 {
-  "name": "firebase-chat-app",
-  "version": "1.0.0",
-  "description": "A modern, real-time chat application built with vanilla HTML, CSS, and JavaScript, designed to be hosted on GitHub Pages.",
-  "main": "app.js",
+  "name": "my-v0-project",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "http-server . -p 3000 -c-1"
-  },
-  "dependencies": {
-    "http-server": "^14.1.1"
-  },
-  "keywords": [
-    "firebase",
-    "chat",
-    "javascript",
-    "github-pages"
-  ],
-  "author": "",
-  "license": "MIT"
+    "build": "echo 'no build script'"
+  }
 }
